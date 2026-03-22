@@ -38,5 +38,15 @@ switch2.
 •  Screw the accessories on the board and switch on the supply.
 •  Circuit is tested for all possible combination of switch positions.
 
+<img width="1602" height="821" alt="Screenshot 2026-02-04 113631" src="https://github.com/user-attachments/assets/5bb27015-6cf8-4b55-9961-3180af50f264" />
+
+
+
+<img width="1323" height="707" alt="Screenshot 2026-02-04 113553" src="https://github.com/user-attachments/assets/a4bb7b15-9fb0-437f-b121-e62eecb3af33" />
+
+[beee exp 3.pdf](https://github.com/user-attachments/files/26165399/beee.exp.3.pdf)
+
+
+
 RESULT:
 Thus the staircase wiring is connected and tested.
